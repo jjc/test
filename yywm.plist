@@ -9,7 +9,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://m.yywm.com/update/yywm_latest.ipa</string>
+						<string>https://github.com/jjc/test/releases/download/0.9/yywm_latest.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
