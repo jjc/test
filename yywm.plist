@@ -17,7 +17,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://m.yywm.com/update/yywm_logo.png</string>
+						<string>https://raw.github.com/jjc/test/master/yywm_icon.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://m.yywm.com/update/yywm_logo.png</string>
+						<string>https://raw.github.com/jjc/test/master/yywm_icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
